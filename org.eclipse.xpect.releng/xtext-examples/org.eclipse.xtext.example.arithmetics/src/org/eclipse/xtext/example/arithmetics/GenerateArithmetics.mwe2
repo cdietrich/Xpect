@@ -52,6 +52,8 @@ Workflow {
 			validator = {
 				// composedCheck = "org.eclipse.xtext.validation.NamesAreUniqueValidator"
 			}
+			junitSupport = org.eclipse.xtext.example.arithmetics.tooling.MultiVersionJunit4Fragment2 {
+			} 
 		}
 	}
 }

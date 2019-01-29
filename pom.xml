@@ -61,6 +61,7 @@
 			</activation>
 			<modules>
 				<module>org.eclipse.xpect.releng/xtext-examples/maven-parents/grammar-plugin</module>
+				<module>org.eclipse.xpect.releng/xtext-examples/org.eclipse.xtext.example.arithmetics.tooling</module>
 				<module>org.eclipse.xpect.releng/xtext-examples/org.eclipse.xtext.example.arithmetics</module>
 				<module>org.eclipse.xpect.releng/xtext-examples/org.eclipse.xtext.example.arithmetics.ide</module>
 				<module>org.eclipse.xpect.releng/xtext-examples/org.eclipse.xtext.example.arithmetics.ui</module>
